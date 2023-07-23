@@ -1,11 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm Shubhrant Tripathi</h1>
 <h3 align="center">Passionate with a love for solving problems through programming</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/67/9c/f0679cecb213c378d86067ee5fecb8fb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishubtripathi&label=Profile%20views&color=0e75b6&style=flat" alt="ishubtripathi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ishubtripathi" target="blank"><img src="https://img.shields.io/twitter/follow/ishubtripathi?logo=twitter&style=for-the-badge" alt="ishubtripathi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ishubtripathi" target="_blank"><img src="https://img.shields.io/twitter/follow/ishubtripathi?logo=twitter&style=for-the-badge" alt="ishubtripathi" /></a> </p>
 
 - 🌱 I’m currently learning **Fullstack-Development, ReactJS**
 
@@ -19,11 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/imshubhtripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imshubhtripathi" height="30" width="40" /></a>
-<a href="https://twitter.com/ishubtripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishubtripathi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishubtripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishubtripathi" height="30" width="40" /></a>
-<a href="https://instagram.com/ishubtripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishubtripathi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shubh tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubh tripathi" height="30" width="40" /></a>
+<a href="https://codepen.io/imshubhtripathi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imshubhtripathi" height="30" width="40" /></a>
+<a href="https://twitter.com/ishubtripathi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishubtripathi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishubtripathi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishubtripathi" height="30" width="40" /></a>
+<a href="https://instagram.com/ishubtripathi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishubtripathi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/shubh tripathi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubh tripathi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
