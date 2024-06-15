@@ -4,16 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishubtripathi&label=Profile%20views&color=0e75b6&style=flat" alt="ishubtripathi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ishubtripathi" target="_blank"><img src="https://img.shields.io/twitter/follow/ishubtripathi?logo=twitter&style=for-the-badge" alt="ishubtripathi" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ishubtripathi/" target="_blank"><img src="https://img.shields.io/twitter/follow/ishubtripathi?logo=twitter&style=for-the-badge" alt="ishubtripathi" /></a> </p>
 
 - 🌱 I’m currently learning **Fullstack-Development, ReactJS**
-
 - 👯 I’m looking to collaborate on **Web Designing**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ishubtripathi](https://github.com/ishubtripathi)
-
 - 💬 Ask me about **Web-designing,Graphic-designing**
-
 - 📫 How to reach me **ishubtripathi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
