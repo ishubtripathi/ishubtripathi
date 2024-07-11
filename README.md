@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhrant Tripathi</h1>
-<h3 align="center">Passionate with a love for solving problems through programming</h3>
+<h3 align="center">Passionate with a love for solving problems through programming, a student with a passion for coding and a knack for creative graphic design. Let's collaborate and bring your ideas to life!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/67/9c/f0679cecb213c378d86067ee5fecb8fb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishubtripathi&label=Profile%20views&color=0e75b6&style=flat" alt="ishubtripathi" /> </p>
