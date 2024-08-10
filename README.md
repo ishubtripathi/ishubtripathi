@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhrant Tripathi</h1>
-<h3 align="center">Person with Fervent dedication to coding and creative Graphic Design. Proficient in an array of programming languages, coupled with mastery in over 30+ diverse software applications. Leveraging this comprehensive skill set to craft compelling and influential experiences, I am driven to collaborate and actualize ideas at the intersection of technology and design.</h3>
+<h3 align="center">Person .</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/67/9c/f0679cecb213c378d86067ee5fecb8fb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishubtripathi&label=Profile%20views&color=0e75b6&style=flat" alt="ishubtripathi" /> </p>
