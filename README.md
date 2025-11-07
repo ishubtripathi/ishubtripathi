@@ -1,51 +1,110 @@
 <h1 align="center">Hi 👋, I'm Shubhrant Tripathi</h1>
-<h3 align="center">Results-driven developer with strong command over Python, C++, JavaScript, and full-stack web development. I bring proven experience in building real-world projects like Ingrab (11K+ users) and HeartCureAI (90%+ accuracy), showcasing my ability to solve complex problems with scalable solutions. Skilled in tools like React.js, Node.js, Git, MySQL, Firebase, Figma, and various modern UI libraries. I’m also a 5⭐ C++ coder on HackerRank and a certified contributor with hands-on experience in AI, automation, and clean UI design. I don’t just write code—I build impactful products.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/67/9c/f0679cecb213c378d86067ee5fecb8fb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishubtripathi&label=Profile%20views&color=0e75b6&style=flat" alt="ishubtripathi" /> </p>
+###
 
-<p align="left"> <a href="https://www.linkedin.com/in/ishubtripathi/" target="_blank"><img src="https://img.shields.io/twitter/follow/ishubtripathi?logo=twitter&style=for-the-badge" alt="ishubtripathi" /></a> </p>
+<p align="justify">A Software Developer focused on results. I have skills in Python, C++, JavaScript, and React. I create practical solutions like Ingrab, which has over 10,000 users, and HeartCureAI, which boasts over 90% accuracy. These projects blend innovation and real impact.<br>I have experience in AI, automation, and full-stack development. I worked as a Data Science and Python Developer Intern, where I improved systems and boosted performance. I am passionate about clean user interfaces, open source projects, and continuous learning.</p>
 
-- 🌱 I’m currently learning **Fullstack-Development, ReactJS**
-- 👯 I’m looking to collaborate on **Web Designing**
-- 👨‍💻 All of my projects are available at [https://github.com/ishubtripathi](https://github.com/ishubtripathi)
-- 💬 Ask me about **Web-designing,Graphic-designing**
-- 📫 How to reach me **ishubtripathi@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/imshubhtripathi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imshubhtripathi" height="30" width="40" /></a>
-<a href="https://twitter.com/ishubtripathi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishubtripathi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishubtripathi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishubtripathi" height="30" width="40" /></a>
-<a href="https://instagram.com/ishubtripathi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishubtripathi" height="30" width="40" /></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ishubtripathi&label=Profile%20views&color=0e75b6&style=flat" alt="ishubtripathi" /> 
 </p>
 
 ---
 
-### 💻 Languages and Tools:
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="45" height="45"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a> 
-</p>
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ishubtripathi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ishubtripathi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://codepen.io/imshubhtripathi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="43" height="25" alt="codepen logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="43" height="25" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="25" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="43" height="25" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="43" height="25" alt="hackerrank logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="43" height="25" alt="facebook logo"  />
+</div>
 
 ---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ishubtripathi&show_icons=true&locale=en" alt="ishubtripathi" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishubtripathi&show_icons=true&locale=en&layout=compact" alt="ishubtripathi" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="54" alt="typescript logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="54" alt="nextjs logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="54" alt="tailwindcss logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="54" alt="storybook logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="54" alt="graphql logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=go" height="54" alt="go logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=rust" height="54" alt="rust logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="54" alt="nestjs logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=py" height="54" alt="python logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=aws" height="54" alt="amazonwebservices logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="54" alt="anaconda logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="54" alt="arduino logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="54" alt="appwrite logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="54" alt="canva logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="54" alt="c logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="54" alt="bootstrap logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="54" alt="css logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=git" height="54" alt="git logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=github" height="54" alt="github logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=figma" height="54" alt="figma logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=js" height="54" alt="javascript logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="54" alt="mongodb logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=postman" height="54" alt="postman logo"  />
+  <img width="23" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="54" alt="vite logo"  />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishubtripathi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="146" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ishubtripathi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ishubtripathi&theme=dracula&column=-1&row=1&margin-w=12&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+---
+
+###
+
+<img src="https://raw.githubusercontent.com/ishubtripathi/ishubtripathi/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
 ## 🏅 My Holopin Badge Wall  
 Every badge tells a story — a journey of learning, building, and growing.  
+<br>
 [![An image of @ishubtripathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishubtripathi)](https://holopin.io/@ishubtripathi)
+
+
 
