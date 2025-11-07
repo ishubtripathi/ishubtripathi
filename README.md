@@ -2,7 +2,7 @@
 
 ###
 
-<p align="justify">Software Developer focused on results. I have skills in Python, C++, JavaScript, and React. I create practical solutions like Ingrab, which has over 10,000 users, and HeartCureAI, which boasts over 90% accuracy. These projects blend innovation and real impact.<br>I have experience in AI, automation, and full-stack development. I worked as a Data Science and Python Developer Intern, where I improved systems and boosted performance. I am passionate about clean user interfaces, open source projects, and continuous learning.</p>
+<p align="justify">Software Developer focused on results. I have skills in Python, C++, JavaScript, and React. I create practical solutions like Ingrab, which has over 11,000+ users, and HeartCureAI, which boasts over 90% accuracy. These projects blend innovation and real impact.<br>I have experience in AI, automation, and full-stack development. I worked as a Data Science and Python Developer Intern, where I improved systems and boosted performance. I am passionate about clean user interfaces, open source projects, and continuous learning.</p>
 
 ###
 
