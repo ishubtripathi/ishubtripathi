@@ -2,7 +2,7 @@
 
 ###
 
-<p align="justify">A Software Developer focused on results. I have skills in Python, C++, JavaScript, and React. I create practical solutions like Ingrab, which has over 10,000 users, and HeartCureAI, which boasts over 90% accuracy. These projects blend innovation and real impact.<br>I have experience in AI, automation, and full-stack development. I worked as a Data Science and Python Developer Intern, where I improved systems and boosted performance. I am passionate about clean user interfaces, open source projects, and continuous learning.</p>
+<p align="justify">Software Developer focused on results. I have skills in Python, C++, JavaScript, and React. I create practical solutions like Ingrab, which has over 10,000 users, and HeartCureAI, which boasts over 90% accuracy. These projects blend innovation and real impact.<br>I have experience in AI, automation, and full-stack development. I worked as a Data Science and Python Developer Intern, where I improved systems and boosted performance. I am passionate about clean user interfaces, open source projects, and continuous learning.</p>
 
 ###
 
@@ -84,9 +84,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishubtripathi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="146" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ishubtripathi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ishubtripathi&theme=dracula&column=-1&row=1&margin-w=12&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishubtripathi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="185" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ishubtripathi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="185" alt="streak graph"  />
+
+  ---
+  
+ <img src="https://github-profile-trophy.vercel.app?username=ishubtripathi&theme=dracula&column=-1&row=1&margin-w=13&margin-h=0&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ---
