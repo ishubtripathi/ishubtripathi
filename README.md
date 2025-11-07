@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhrant Tripathi</h1>
-<h3 align="center">Results-driven developer with strong command over Python, C++, JavaScript, and full-stack web development. I bring proven experience in building real-world projects like Ingrab (7K+ users) and HeartCureAI (90%+ accuracy), showcasing my ability to solve complex problems with scalable solutions. Skilled in tools like React.js, Node.js, Git, MySQL, Firebase, Figma, and various modern UI libraries. I’m also a 5⭐ C++ coder on HackerRank and a certified contributor with hands-on experience in AI, automation, and clean UI design. I don’t just write code—I build impactful products.</h3>
+<h3 align="center">Results-driven developer with strong command over Python, C++, JavaScript, and full-stack web development. I bring proven experience in building real-world projects like Ingrab (11K+ users) and HeartCureAI (90%+ accuracy), showcasing my ability to solve complex problems with scalable solutions. Skilled in tools like React.js, Node.js, Git, MySQL, Firebase, Figma, and various modern UI libraries. I’m also a 5⭐ C++ coder on HackerRank and a certified contributor with hands-on experience in AI, automation, and clean UI design. I don’t just write code—I build impactful products.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/67/9c/f0679cecb213c378d86067ee5fecb8fb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishubtripathi&label=Profile%20views&color=0e75b6&style=flat" alt="ishubtripathi" /> </p>
@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishubtripathi&" alt="ishubtripathi" /></p>
 
-https://holopin.io/@ishubtripathi
+[![An image of @ishubtripathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishubtripathi)](https://holopin.io/@ishubtripathi)
