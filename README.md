@@ -10,8 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=ishubtripathi&label=Profile%20views&color=0e75b6&style=flat" alt="ishubtripathi" /> 
 </p>
 
----
-
 ###
 
 <div align="center">
@@ -93,18 +91,12 @@
 
 ---
 
-###
-
-<img src="https://raw.githubusercontent.com/ishubtripathi/ishubtripathi/output/snake.svg" alt="Snake animation" />
-
-###
-
----
-
 ## 🏅 My Holopin Badge Wall  
 Every badge tells a story — a journey of learning, building, and growing.  
 <br>
 [![An image of @ishubtripathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishubtripathi)](https://holopin.io/@ishubtripathi)
+
+---
 
 
 
