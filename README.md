@@ -29,4 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishubtripathi&" alt="ishubtripathi" /></p>
 
+## 🏅 My Holopin Badge Wall  
+Every badge tells a story — a journey of learning, building, and growing 🚀  
 [![An image of @ishubtripathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishubtripathi)](https://holopin.io/@ishubtripathi)
+
